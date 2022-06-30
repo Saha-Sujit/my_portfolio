@@ -13,7 +13,7 @@ const bprojects = [
     name: "MERN Product Catalog",
     description:
       "Product Catalog made using MERN (React Js, Node Js, Express Js, and MongoDB). Product Catalog is website where users can register and list, edit, and delete their products.",
-    image: require("../assets/product_catelog.png"),
+    image: require("../assets/product_catalog.png"),
     github: "https://github.com/Saha-Sujit/mern-product-catalog",
     website: "https://product-catelog.netlify.app/",
   },
