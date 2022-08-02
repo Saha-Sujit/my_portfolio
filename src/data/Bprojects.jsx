@@ -17,6 +17,15 @@ const bprojects = [
     github: "https://github.com/Saha-Sujit/mern-product-catelog",
     website: "https://product-catelog.netlify.app/",
   },
+  {
+    id: 3,
+    name: "React Todo Website",
+    description:
+      "React Todo Website/App using Firebase Cloud Firestore. It's a website which do CRUD operations into firebase cloud firestore to add todo",
+    image: require("../assets/todo_app_thumb.png"),
+    github: "https://github.com/Saha-Sujit/react-todo-app",
+    website: "https://react-firebase-todos.netlify.app/",
+  },
 ];
 
 export default bprojects;
